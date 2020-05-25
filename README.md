@@ -1,14 +1,8 @@
 # weekonechallenge
 # 01 HTML CSS Git: Code Refactor
 ​
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
-​
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
-​
-> Always leave the code you are editing a little cleaner than you found it.
-​
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-​
+This refactor acted as an opportunity to improve the accessibility of the site via the addition of alternative text to provide image description. All links are now active on page and it has a clear title shown in browser. The semantic code and CSS styles were clarified and given cleaner structure. This was also a chance to add comments for quicker clean-up tasks in the future. 
+
 ## User Story
 ​
 ```
@@ -31,33 +25,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```
-​
-## Review
-​
-You are required to submit the following for review:
-​
-* The URL of the deployed application.
-​
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-​
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-Collapse
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Message Tori Mason
-
+``
