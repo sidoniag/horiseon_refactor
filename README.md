@@ -7,4 +7,4 @@ This refactor acted as an opportunity to improve the accessibility of the site v
 
 ​
 ## Screen Capture
-![](assets/images/screen-capture.pdf)
+![](/images/screen-capture.pdf)
